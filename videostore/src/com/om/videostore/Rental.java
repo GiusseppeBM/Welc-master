@@ -1,4 +1,4 @@
-package com.om.videostore;
+package src.com.om.videostore;
 
 public class Rental
 {

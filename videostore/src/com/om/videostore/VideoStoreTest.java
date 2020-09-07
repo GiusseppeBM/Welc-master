@@ -1,4 +1,4 @@
-package com.om.videostore;
+package src.com.om.videostore;
 
 import static org.junit.Assert.assertEquals;
 
